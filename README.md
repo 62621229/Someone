@@ -86,7 +86,7 @@
             const password = document.getElementById("password").value;
             const alertBox = document.getElementById("alert");
 
-            if (phone === "0904642729" && password === "0962621229") {
+            if (phone === "2729" && password === "1229") {
                 // تسجيل الدخول ناجح
                 document.body.innerHTML = `
                     <div class="images-page">
